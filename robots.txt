@@ -1,0 +1,9 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+
+Allow: /index.html
+Allow: /
+
+Sitemap: https://proven.atlashealthline.online/sitemap.xml
