@@ -6,4 +6,4 @@ User-agent: *
 Allow: /index.html
 Allow: /
 
-Sitemap: https://myweightlossgoal.netlify.app/sitemap.xml
+Sitemap: https://proven-weightlossmedicine.netlify.app/sitemap.xml
