@@ -6,4 +6,4 @@ User-agent: *
 Allow: /index.html
 Allow: /
 
-Sitemap: https://proven.atlashealthline.online/sitemap.xml
+Sitemap: https://myweightlossgoal.netlify.app/sitemap.xml
