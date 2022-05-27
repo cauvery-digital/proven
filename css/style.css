@@ -161,13 +161,13 @@ section {
   font-weight: 600;
 }
 
-.vigo-btn {
+.proven-btn {
   font-size: 12px;
   padding-left: 20px;
   padding-right: 20px;
   font-weight: 500;
 }
-.vigo-btn:hover {
+.proven-btn:hover {
   color: #cea752 !important;
   background: white !important;
   border: 1px solid #cea752 !important;
@@ -220,7 +220,7 @@ section {
   display: none;
 }
 
-.vigo-loder {
+.proven-loder {
   position: fixed;
   width: 100%;
   height: 100%;
@@ -370,7 +370,7 @@ section {
     max-width: 1650px;
   }
 
-  .vigo-btn {
+  .proven-btn {
     font-size: 18px;
     padding-left: 25px !important;
     padding-right: 25px !important;
@@ -611,7 +611,7 @@ header:before {
 .main-nav nav .navbar-light .navbar-toggler {
   padding: 5px;
 }
-.main-nav .vigo-btn {
+.main-nav .proven-btn {
   padding: 7px 5px;
   position: relative;
   z-index: 10;
@@ -691,7 +691,7 @@ header:before {
     margin-right: 5px !important;
   }
 
-  .main-nav .vigo-btn {
+  .main-nav .proven-btn {
     padding-top: 13px !important;
     padding-bottom: 13px !important;
   }
@@ -848,13 +848,13 @@ footer .footer-box-border:before {
     line-height: 25px;
   }
 
-  footer .vigo-send-message {
+  footer .proven-send-message {
     font-size: 24px;
     line-height: 34px;
     margin: 0;
     padding-bottom: 10px;
   }
-  footer .vigo-send-message:before {
+  footer .proven-send-message:before {
     display: none;
   }
 
@@ -921,7 +921,7 @@ footer .footer-box-border:before {
 .main-slider .slider-title br {
   display: none;
 }
-.main-slider .vigo-btn {
+.main-slider .proven-btn {
   font-size: 12px;
   padding: 5px 10px;
 }
@@ -938,7 +938,7 @@ footer .footer-box-border:before {
     transform: translateY(-60%);
     padding-left: 50px;
   }
-  .main-slider .vigo-btn {
+  .main-slider .proven-btn {
     font-size: 12px;
     padding-left: 20px;
     padding-right: 20px;
@@ -986,7 +986,7 @@ footer .footer-box-border:before {
   .main-slider .slider-text-box {
     transform: translateY(-60%);
   }
-  .main-slider .vigo-btn {
+  .main-slider .proven-btn {
     font-size: 18px;
     padding-left: 25px;
     padding-right: 25px;
@@ -1782,7 +1782,7 @@ a.back_to_top {
   text-align: center;
   color: white;
 }
-.newsletter .justify-content-center .vigo-btn {
+.newsletter .justify-content-center .proven-btn {
   background: #fff !important;
 }
 .newsletter .white-btn:hover {
@@ -1826,7 +1826,7 @@ a.back_to_top {
     margin-bottom: 0;
     padding: 10px;
   }
-  .newsletter .vigo-btn {
+  .newsletter .proven-btn {
     font-size: 16px;
   }
 }
@@ -1840,7 +1840,7 @@ a.back_to_top {
     line-height: 34px;
     padding: 13px !important;
   }
-  .newsletter .vigo-btn {
+  .newsletter .proven-btn {
     font-size: 24px;
     padding: 15px 40px !important;
   }
@@ -2010,34 +2010,34 @@ a.back_to_top {
   }
 }
 /*---------- Pricing Table Section---------*/
-.vigo-price {
+.proven-price {
   padding-top: 0;
   padding-bottom: 15px;
 }
-.vigo-price .list-group {
+.proven-price .list-group {
   margin-bottom: 10px;
 }
-.vigo-price li {
+.proven-price li {
   padding: 2px 0;
   font-size: 12px;
 }
-.vigo-price li .pricing {
+.proven-price li .pricing {
   padding: 0 0 10px;
 }
-.vigo-price .vigo-pricing-table {
+.proven-price .proven-pricing-table {
   margin: 10px 0;
   padding: 15px 10px;
   box-shadow: 0px 0px 23px -8px rgba(51, 51, 51, 0.34118);
 }
-.vigo-price .pricing-icon-box {
+.proven-price .pricing-icon-box {
   height: 65px;
   margin-bottom: 8px;
 }
-.vigo-price .price-package {
+.proven-price .price-package {
   padding: 5px 0;
   font-weight: 700;
 }
-.vigo-price .price-package:before {
+.proven-price .price-package:before {
   content: "";
   position: absolute;
   top: 50%;
@@ -2047,93 +2047,93 @@ a.back_to_top {
   height: 2px;
   background: transparent;
 }
-.vigo-price .price-package p {
+.proven-price .price-package p {
   background: #fff;
   display: inline-block;
   padding: 0 10px;
 }
-.vigo-price .vigo-btn {
+.proven-price .proven-btn {
   padding-left: 16px;
   padding-right: 16px;
 }
 
-.vigo-price .pricing-icon-box {
+.proven-price .pricing-icon-box {
   height: 50px;
 }
-.vigo-price .pricing-icon-box img {
+.proven-price .pricing-icon-box img {
   width: 65px;
 }
 
 @media (max-width: 575px) {
-  .vigo-product {
+  .proven-product {
     padding-top: 20px !important;
     padding-bottom: 16px !important;
   }
 }
 @media (min-width: 768px) {
-  .vigo-price {
+  .proven-price {
     padding: 0 0 26px;
   }
-  .vigo-price .price-package:before {
+  .proven-price .price-package:before {
     background: #c7c7c7;
   }
 }
 @media (max-width: 768px) {
-  .vigo-price {
+  .proven-price {
     padding-top: 18px;
     padding-bottom: 30px;
   }
 }
 @media (min-width: 1024px) {
-  .vigo-price {
+  .proven-price {
     padding: 0 0 32px;
   }
 }
 @media (min-width: 1200px) {
-  .vigo-price {
+  .proven-price {
     padding: 0 0 92px;
   }
-  .vigo-price li {
+  .proven-price li {
     font-size: 24px;
     line-height: 34px;
     padding: 0;
   }
-  .vigo-price li .pricing {
+  .proven-price li .pricing {
     font-weight: 900;
     font-size: 34px;
     padding-bottom: 23px;
     padding-top: 10px;
     color: #333740;
   }
-  .vigo-price .vigo-pricing-table {
+  .proven-price .proven-pricing-table {
     padding: 50px 0;
     transition: 0.5s;
   }
-  .vigo-price .vigo-pricing-table:hover {
+  .proven-price .proven-pricing-table:hover {
     transform: translateY(-7px);
     border-bottom: 7px solid #cea752;
     box-shadow: 0px 0px 44px -8px rgba(51, 51, 51, 0.34118);
   }
-  .vigo-price .pricing-icon-box {
+  .proven-price .pricing-icon-box {
     margin-bottom: 40px;
   }
-  .vigo-price .price-package p {
+  .proven-price .price-package p {
     color: #333740;
     font-size: 24px;
     font-weight: 700;
     line-height: 34px;
   }
-  .vigo-price .pricing-order-now {
+  .proven-price .pricing-order-now {
     padding-top: 16px;
   }
-  .vigo-price .vigo-btn {
+  .proven-price .proven-btn {
     padding-left: 20px;
     padding-right: 20px;
   }
-  .vigo-price .vigo-price li .pricing {
+  .proven-price .proven-price li .pricing {
     line-height: 44px;
   }
-  .vigo-price .list-group-item .highlight-text {
+  .proven-price .list-group-item .highlight-text {
     color: #333740;
   }
 }
@@ -2309,11 +2309,11 @@ a.back_to_top {
     font-weight: 400;
   }
 
-  #vigoaccordion .active {
+  #provenaccordion .active {
     padding-bottom: 10px;
   }
 
-  .vigoaccordion-content {
+  .provenaccordion-content {
     border-radius: 10px;
   }
 }
@@ -2427,48 +2427,48 @@ a.back_to_top {
   }
 }
 /*---------- Certification Section---------*/
-.vigo-product {
+.proven-product {
   padding-bottom: 0;
 }
-.vigo-product .page-title {
+.proven-product .page-title {
   padding-bottom: 12px;
 }
-.vigo-product .product-box {
+.proven-product .product-box {
   text-align: center;
 }
-.vigo-product .flexslider {
+.proven-product .flexslider {
   margin-bottom: 0;
   border: 0;
 }
-.vigo-product .flex-active-slide img {
+.proven-product .flex-active-slide img {
   transition: 0.5s;
   box-shadow: 0px 1px 22px -1px rgba(0, 0, 0, 0.21);
 }
-.vigo-product .flex-direction-nav a {
+.proven-product .flex-direction-nav a {
   margin: -12px 0 0 !important;
 }
-.vigo-product .vigo-small-img {
+.proven-product .proven-small-img {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-.vigo-product .product-box {
+.proven-product .product-box {
   margin-top: 10px;
 }
-.vigo-product .product_rating i {
+.proven-product .product_rating i {
   font-size: 14px;
   color: #eab230;
   letter-spacing: 4px;
 }
-.vigo-product .rating_subtitle {
+.proven-product .rating_subtitle {
   margin-left: 5px;
   font-size: 14px;
 }
-.vigo-product .product-price {
+.proven-product .product-price {
   margin: 10px 0;
   font-size: 16px;
   font-weight: 800;
 }
-.vigo-product .product-content {
+.proven-product .product-content {
   padding-top: 10px;
   padding-bottom: 20px;
   margin-top: 20px;
@@ -2476,104 +2476,104 @@ a.back_to_top {
   padding-left: 10px;
   padding-right: 10px;
 }
-.vigo-product .product-view {
+.proven-product .product-view {
   overflow: hidden;
 }
-.vigo-product .vigo-btn {
+.proven-product .proven-btn {
   padding: 10px 5px;
 }
-.vigo-product .product-box-content .flexslider .slides > li {
+.proven-product .product-box-content .flexslider .slides > li {
   margin-right: 15px !important;
 }
-.vigo-product input {
+.proven-product input {
   background: #f1f1f1;
   border-radius: 5px;
 }
-.vigo-product input:focus {
+.proven-product input:focus {
   background: #f1f1f1;
 }
-.vigo-product input[type=text],
-.vigo-product input[type=email] {
+.proven-product input[type=text],
+.proven-product input[type=email] {
   text-align: center;
 }
-.vigo-product ::-webkit-input-placeholder {
+.proven-product ::-webkit-input-placeholder {
   text-align: center;
 }
-.vigo-product :-moz-placeholder {
+.proven-product :-moz-placeholder {
   /* Firefox 18- */
   text-align: center;
 }
-.vigo-product ::-moz-placeholder {
+.proven-product ::-moz-placeholder {
   /* Firefox 19+ */
   text-align: center;
 }
 
 @media (min-width: 768px) {
-  .vigo-product {
+  .proven-product {
     padding: 35px 0 0;
   }
-  .vigo-product input {
+  .proven-product input {
     padding: 6px;
   }
-  .vigo-product .product-view {
+  .proven-product .product-view {
     margin-top: 5px;
     padding-top: 10px;
     border-top: 1px solid #c8c8c8;
   }
-  .vigo-product .product-box {
+  .proven-product .product-box {
     text-align: left;
   }
-  .vigo-product .page-title {
+  .proven-product .page-title {
     padding-bottom: 30px;
   }
-  .vigo-product .product-quantity {
+  .proven-product .product-quantity {
     margin-bottom: 18px;
   }
 }
 @media (min-width: 1200px) {
-  .vigo-product .product_rating i {
+  .proven-product .product_rating i {
     font-size: 28px;
   }
 }
 @media (min-width: 1400px) {
-  .vigo-product {
+  .proven-product {
     padding: 90px 0 0;
   }
-  .vigo-product .product-box-title {
+  .proven-product .product-box-title {
     padding-top: 30px;
   }
-  .vigo-product .product-box-title h5 {
+  .proven-product .product-box-title h5 {
     font-size: 24px;
     line-height: 34px;
     margin: 0;
   }
-  .vigo-product .product-content {
+  .proven-product .product-content {
     padding-top: 23px;
     padding-bottom: 40px;
     margin-top: 15px;
   }
-  .vigo-product .vigo-btn {
+  .proven-product .proven-btn {
     font-size: 24px;
   }
-  .vigo-product .product-view {
+  .proven-product .product-view {
     margin-top: 10px;
     padding-top: 18px;
   }
-  .vigo-product .slides > li {
+  .proven-product .slides > li {
     transition: 0.5s;
   }
-  .vigo-product .slides > li:hover {
+  .proven-product .slides > li:hover {
     transform: translateY(-5px);
     box-shadow: -1px 3px 22px -1px rgba(0, 0, 0, 0.21);
   }
-  .vigo-product .product-price {
+  .proven-product .product-price {
     font-size: 24px;
     line-height: 34px;
     font-weight: 900;
   }
 }
 @media (max-width: 768px) {
-  .vigo-product {
+  .proven-product {
     padding: 38px 0 20px;
   }
 }
