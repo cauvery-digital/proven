@@ -5,5 +5,5 @@ User-agent: *
 
 Allow: /index.html
 Allow: /
-Disallow: /main.html
+
 Sitemap: https://proven-weightlossmedicine.netlify.app/sitemap.xml
